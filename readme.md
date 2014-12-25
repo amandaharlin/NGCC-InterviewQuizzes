@@ -1,4 +1,4 @@
-
+interviewers ask questions to understand where you currently are in your code journey. they can start to assess what skillsets you've worked on and what areas can be strengthened.
 
 //just getting to know you
 
@@ -61,3 +61,12 @@
 22. how would you check a string for palindromes in js?
 
 23. make a node webserver that listens on port 1337
+
+//
+some database 
+
+24. what types of databases have you used in projects before? relational, ovject, graph, document? 
+
+25. what is a foreign key?
+
+26. what are the differences in the first, second, and third normal forms? what about fourth and fifth normal forms?
